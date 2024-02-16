@@ -74,7 +74,7 @@ export default {
 <style>
 
 body.home{
-  background-image: url('https://i.imgur.com/i74n3G3.jpg');
+  background-image: url('https://cdn-images.imagevenue.com/44/a8/9d/ME17MIIS_o.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
